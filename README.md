@@ -13,6 +13,12 @@ El objetivo de estas prácticas es aplicar técnicas de seguridad informática e
  ┃ ┣ 📜 ApartadoB.py
  ┃ ┣ 📜 ApartadoC.py
  ┃ ┗ 📄 Practica 1 - criptografía.pdf
+ ┣ 📂 Practica2_CifradoAsimétrico
+ ┃ ┣ 📜 README.md
+ ┃ ┣ 📜 Apartado1-AES_CBC.py
+ ┃ ┣ 📜 Apartado2-AES_MODES.py
+ ┃ ┣ 📜 Apartado3-Class_AES.py
+ ┃ ┗ 📄 Practica 2.pdf
  ```
 Cada carpeta contiene una práctica independiente con su propio README.md explicando su funcionamiento.
 
