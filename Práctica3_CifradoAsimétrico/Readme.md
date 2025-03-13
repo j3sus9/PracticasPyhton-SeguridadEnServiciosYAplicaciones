@@ -1,4 +1,4 @@
-# Práctica 2: Criptografía con RSA y ECC
+# Práctica 3: Criptografía con RSA y ECC
 
 ## Descripción
 Esta práctica tiene como objetivo implementar operaciones criptográficas utilizando los algoritmos RSA y ECC mediante la librería `pycryptodome` en Python. Se desarrollan funciones para generar claves, cifrar y descifrar mensajes, firmar digitalmente y verificar firmas.
