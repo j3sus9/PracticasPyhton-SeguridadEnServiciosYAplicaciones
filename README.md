@@ -28,7 +28,7 @@ El objetivo de estas prácticas es aplicar técnicas de seguridad informática e
  ┃ ┃ ┣ 📜 Codigo_RSA_CampusVirtual.py
  ┃ ┃ ┣ 📜 ca.py
  ┃ ┃ ┣ 📜 bob.py
- ┃ ┃ ┣ 📜 allice.py
+ ┃ ┃ ┣ 📜 alice.py
  ┃ ┣ 📂 Apartado2
  ┃ ┃ ┣ 📂 __pycache__
  ┃ ┃ ┣ 📜 ecc.py
