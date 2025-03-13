@@ -1,4 +1,4 @@
-# PRÁCTICA CIFRADO ASIMÉTRICO
+# PRÁCTICA CIFRADO SIMÉTRICO
 
 ## Descripción
 Esta práctica explora el uso de algoritmos de cifrado simétrico, en particular AES y DES, en diferentes modos de operación. Se implementa el cifrado y descifrado de mensajes utilizando AES en modo CBC y se analizan los efectos de cambios mínimos en el texto original. Además, se experimenta con distintos modos de operación de AES, como ECB, CTR, OFB, CFB y GCM, destacando sus diferencias en seguridad y aplicabilidad.
