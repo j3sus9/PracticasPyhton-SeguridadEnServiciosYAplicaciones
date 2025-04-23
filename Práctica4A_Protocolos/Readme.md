@@ -29,21 +29,21 @@ pip install pycryptodome
 
 ## ⚙️ Ejecución
 
-1. ## Generar claves RSA
+1. **Generar claves RSA
 Ejecuta ca.py para generar claves para Alice y Bob:
 
 ```bash
 python ca.py
 ```
 
-2. ## Ejecutar Bob (servidor)
+2. **Ejecutar Bob (servidor)
 En una terminal:
 
 ```bash
 python bob.py
 ```
 
-3. ## Ejecutar Alice (cliente)
+3. **Ejecutar Alice (cliente)
 En otra terminal:
 
 ```bash
